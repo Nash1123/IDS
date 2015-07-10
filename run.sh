@@ -6,8 +6,8 @@
 # 2015/07/10	Nash First release
 # hsuhang2001@gmail.com
 
-# To install jre in the environment, run the script below (now comment out):
-# sudo apt-get install default-jre
+# To install jdk in the environment, run the script below (now comment out):
+# sudo apt-get install default-jdk
 
 # To compile the .java to .class file, run the scripts below (now comment out):
 # javac ./src/WordsTweeted.java
