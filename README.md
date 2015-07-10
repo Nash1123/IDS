@@ -1,4 +1,4 @@
-# IDS Code Challenge
+# IDS Coding Challenge
 
 I use java to write this code challenge with java version "1.7.0_79".
 
